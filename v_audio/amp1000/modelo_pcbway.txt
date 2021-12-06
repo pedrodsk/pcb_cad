@@ -1,0 +1,10 @@
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-F_Cu.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-B_Cu.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-F_Paste.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-B_Paste.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-F_SilkS.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-B_SilkS.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-F_Mask.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-B_Mask.gbr" created.
+Plot file "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-Edge_Cuts.gbr" created.
+Criar arquivo de trabalho Gerber "G:\Meu Drive\Pedro\kicad\vando\amp1000\gerber\amp1000-job.gbrjob"

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name TL074)(type KiCad)(uri ${KIPRJMOD}/2019-07-23_18-51-51/TL074)(options "")(descr ""))
+  (lib (name TL072)(type KiCad)(uri ${KIPRJMOD}/2019-07-26_00-04-56/TL072)(options "")(descr ""))
+  (lib (name Mix_pre_tonal)(type KiCad)(uri ${KIPRJMOD}/Mix_pre_tonal.pretty)(options "")(descr ""))
+)

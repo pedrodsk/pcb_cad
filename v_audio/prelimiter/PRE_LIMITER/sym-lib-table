@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LM13700)(type Legacy)(uri ${KIPRJMOD}/2019-07-23_18-29-12/2019-07-23_18-29-12.lib)(options "")(descr ""))
+  (lib (name TL704)(type Legacy)(uri ${KIPRJMOD}/2019-07-23_18-51-51/2019-07-23_18-51-51.lib)(options "")(descr ""))
+)

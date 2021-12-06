@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LM13700)(type KiCad)(uri ${KIPRJMOD}/2019-07-23_18-29-12/footprints.pretty)(options "")(descr ""))
+  (lib (name TL704)(type KiCad)(uri ${KIPRJMOD}/2019-07-23_18-51-51/footprints.pretty)(options "")(descr ""))
+)

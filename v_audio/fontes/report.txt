@@ -1,0 +1,10 @@
+Info: Output directory “G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena” created.
+
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-F_Cu.gtl" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-B_Cu.gbl" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-F_SilkS.gto" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-B_SilkS.gbo" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-F_Mask.gts" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-B_Mask.gbs" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-Edge_Cuts.gm1" created.
+Plot file "G:\My Drive\Pedro\kicad\vando\fontes\gerber_pequena\fonte_pequena-F_Fab.gbr" created.

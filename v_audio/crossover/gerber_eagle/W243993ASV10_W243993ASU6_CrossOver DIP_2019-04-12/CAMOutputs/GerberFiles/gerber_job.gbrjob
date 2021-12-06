@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-12T15:51:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "CrossOver DIP"
+        },
+        "Owner": "Pedro Ivo Aragao Guimaraes <pedro.guimaraes@ee.ufcg.edu.br>",
+        "Size": {
+            "X": 77.47,
+            "Y": 50.8
+        }
+    }
+}
